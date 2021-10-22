@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D742CA87-4FA2-30AA-C89F-4FBCB06F9120}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FirstTry",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
